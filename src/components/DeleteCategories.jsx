@@ -6,6 +6,6 @@ export const DeleteCategories = ({ deleteAllCategories }) => {
   }
 
   return (
-    <button onClick={ deleteCategory }>Limpiar Historial</button>
+    <button onClick={ deleteCategory }>Reset</button>
   )
 }
